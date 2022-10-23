@@ -125,7 +125,8 @@ USE_TZ = True
 
 CORS_ORIGIN_WHITELIST = [
     "http://localhost:8000",
-    "http://restaurante.vercel.app"
+    "http://restaurante.vercel.app",
+    "https://restaurante-peach.vercel.app/"
 ]
 
 
